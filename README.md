@@ -1,5 +1,5 @@
 # calculator-py
-basics requirements for calculator app
+basics requirements for calculator application
 
 - Add (n number of variables)
     - number of elements ( 1...n)
